@@ -12,6 +12,7 @@ Monorepo of the Ecommerce platform app.
 - 🏢 Hexagonal architecture (Backend)
 
 
+
 ## Usage
 ### Prerequisites
 - [NodeJS 20.17 LTS](https://nodejs.org/dist/v20.17.0/node-v20.17.0.pkg)
