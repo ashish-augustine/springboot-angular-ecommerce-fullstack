@@ -5,7 +5,7 @@ import fr.codecake.ecom.product.domain.vo.PublicId;
 import fr.codecake.ecom.shared.error.domain.Assert;
 import org.jilt.Builder;
 
-import java.util.UUID;
+import java.util.UUID; 
 
 @Builder
 public class Category {
