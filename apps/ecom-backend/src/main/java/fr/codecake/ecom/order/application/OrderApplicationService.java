@@ -40,7 +40,7 @@ public class OrderApplicationService {
     this.orderUpdater = new OrderUpdater(orderRepository);
     this.orderReader = new OrderReader(orderRepository);
   }
-
+    
   @Transactional(readOnly = true)
   public DetailCartResponse getCartDetails(DetailCartRequest detailCartRequest) {
     List<PublicId> publicIds = detailCartRequest.items().stream().map(DetailCartItemRequest::productId).toList();
