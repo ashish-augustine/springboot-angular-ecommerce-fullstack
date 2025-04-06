@@ -2,7 +2,7 @@ import { Component, inject, OnInit, PLATFORM_ID } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import {
   FaConfig,
-  FaIconComponent,
+  FaIconComponent,   
   FaIconLibrary,
 } from '@fortawesome/angular-fontawesome';
 import { fontAwesomeIcons } from './shared/font-awesome-icons';
