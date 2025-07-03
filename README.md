@@ -1,8 +1,5 @@
-# Ecommerce platform (fullstack project) Spring boot 3, Angular 18, Tailwind CSS, PostgreSQL, Kinde (2024)
-
-Monorepo of the Ecommerce platform app.
-
-[Video tutorial](https://youtu.be/4npG3sAMT5I)
+# Ecommerce platform (fullstack project) Spring boot 3, Angular 18, Tailwind CSS, PostgreSQL, Kinde 
+Monorepo of the Ecommerce platform app. 
 
 ### Key Features:
 - 🛠️ Admin panel for products and categories 
@@ -24,7 +21,7 @@ Monorepo of the Ecommerce platform app.
 ### Fetch dependencies
 ``npm install``
 
-You will need to create an .env file at the root of the ecom-backend folder with the following values :
+Create an .env file at the root of the ecom-backend folder with the following values :
 
 ````
 KINDE_CLIENT_ID=<client-id>
