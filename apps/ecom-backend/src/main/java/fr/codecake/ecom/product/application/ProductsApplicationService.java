@@ -2,7 +2,7 @@ package fr.codecake.ecom.product.application;
 
 import fr.codecake.ecom.order.domain.order.aggregate.OrderProductQuantity;
 import fr.codecake.ecom.product.domain.aggregate.Category;
-import fr.codecake.ecom.product.domain.aggregate.FilterQuery;
+import fr.codecake.ecom.product.domain.aggregate.FilterQuery; 
 import fr.codecake.ecom.product.domain.aggregate.Product;
 import fr.codecake.ecom.product.domain.repository.CategoryRepository;
 import fr.codecake.ecom.product.domain.repository.ProductRepository;
