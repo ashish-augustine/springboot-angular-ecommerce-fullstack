@@ -76,11 +76,9 @@ npx nx show project ecom-backend
 
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/18b2f0f3-bb99-44bb-ae3b-bf1c2b4aedd1)
 
-![Image](https://github.com/user-attachments/assets/f7af7742-b418-44d3-9811-e6420608af42)
+![Image](https://github.com/user-attachments/assets/e18eb53c-57a9-49c8-aab7-8235f5828edf)
 
-![Image](https://github.com/user-attachments/assets/d9323307-f289-4d11-b98b-3987229fb564)
-
-![Image](https://github.com/user-attachments/assets/4b6b6d2f-ca84-40da-b82f-3d54588d9cb4)
-
+![Image](https://github.com/user-attachments/assets/5dea7808-fde6-416c-9a9e-69a814a198a8)
 
